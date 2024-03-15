@@ -374,13 +374,14 @@ margin-right: 50px;
 
 
 .our-works{
-    margin-top: 100px;
+    margin-top: 150px;
     height: 100vh;
     width: 100%;
     background: white;
     justify-content: space-around;
 }
 .our-works-heading{
+    
     text-align: center;
 }
 
@@ -396,8 +397,8 @@ margin-right: 50px;
 
 .our-works-images img{
     height: 330px;
-    width: 250px;
-    margin-left: 30px;
+    width: 200px;
+    margin-left: 50px;
 }
 .our-works-images img:nth-child(odd){
     margin-top: 50px;
